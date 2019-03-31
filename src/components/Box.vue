@@ -15,7 +15,7 @@
       <div class="info-box">
         <p>Press Space Bar or Enter to Start Game</p>
         <p>
-          Press the space bar when the square is touching the center line. The
+          Press the space bar when the circle is touching the center line. The
           square moves faster with every point earned.
         </p>
       </div>
