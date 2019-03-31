@@ -178,6 +178,7 @@ export default {
   width: 10vh;
   background: rebeccapurple;
   margin-top: 2vh;
+  border-radius: 5vh;
 }
 .line {
   height: 10px;
